@@ -12,3 +12,9 @@ div{
 .row{
   border-color: darkred;  
 }
+
+.list-group-item{
+ border: 0;
+ margin-top: 20px;
+ margin-bottom: 20px;   
+}
