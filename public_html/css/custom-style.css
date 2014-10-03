@@ -1,20 +1,25 @@
 div{
-    border-style: double;
-    border-width: 5px;
+    border-style: none;
+    border-width: 6px;
     border-color: green;
-    padding: 30px;
+    padding: 20px;
 }
 
 .container {
-  border-color: blue;  
+  border-style: dashed; 
+  border-color: yellow
 }
 
 .row{
-  border-color: darkred;  
+  border-color: red;  
 }
 
 .list-group-item{
  border: 0;
  margin-top: 20px;
- margin-bottom: 20px;   
+ margin-bottom: 20px;
+}
+
+body {
+    color: white;
 }
